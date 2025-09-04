@@ -1,4 +1,4 @@
-#📊 Coin Market Dashboard
+# Coin Market Dashboard
 
 📌 Overview
 
