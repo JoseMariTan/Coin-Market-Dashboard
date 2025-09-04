@@ -1,6 +1,7 @@
 📊 Coin Market Dashboard
 
 📌 Overview
+
 This project fetches real-time cryptocurrency data from the CoinMarketCap API, processes and cleans it using Python (Pandas), and visualizes the results in an interactive Power BI dashboard. The workflow demonstrates end-to-end data handling — from API integration to cleaning and transformation, and finally to dashboard creation for actionable insights.
 
 🚀 Features
